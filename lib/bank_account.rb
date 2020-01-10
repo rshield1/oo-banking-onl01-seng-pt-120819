@@ -12,7 +12,7 @@ def initialize(name)
 end
 
 def deposit
-
+  @balance << self
 end
 
 end
